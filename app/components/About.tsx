@@ -13,8 +13,8 @@ const About = () => {
             Simple Way of Eating Delicias
           </h1>
           <p className="text-xl">
-            Eating healthy food readliy available. When you get hungry, you're
-            more likely to eat the first thing you see on the counter or in the
+            {`Eating healthy food readliy available. When you get hungry, you're
+            more likely to eat the first thing you see on the counter or in the..`}
           </p>
           <Button>Explore Our Story</Button>
         </div>
