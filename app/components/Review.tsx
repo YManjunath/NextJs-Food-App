@@ -8,9 +8,9 @@ const Review = () => {
           <p className="font-bold text-yellow-400 text-2xl">Testimonial</p>
           <h1 className="text-5xl font-bold">Thats What Our Client Says.</h1>
           <p className="text-xl">
-            &ldquo; Floood is an awesome place, Food is everything we are. its
+            Floood is an awesome place, Food is everything we are. its
             an extension of nationalist feeling, ethic feeling your personal,
-            history your praiance.&ldquo;
+            history your praiance.
           </p>
           <div>
             <h1 className="text-lg text-gray-700 font-semibold">
